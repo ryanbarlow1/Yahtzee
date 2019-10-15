@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>netcoreapp3.0</TargetFramework>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Resource Include="Images\die1.gif" />
+    <Resource Include="Images\die2.gif" />
+    <Resource Include="Images\die3.gif" />
+    <Resource Include="Images\die4.gif" />
+    <Resource Include="Images\die5.gif" />
+    <Resource Include="Images\die6.gif" />
+    <Resource Include="Images\YahtzeeLogo.jpg" />
+  </ItemGroup>
+
+</Project>
