@@ -1,2 +1,2 @@
 # Yahtzee
-This Yahtzee-style game was created for my individual project for my BS Computer Science degree. It was built using WPF in .NET Framework 4.8, and was ported over to .NET Core 3.0. This includes a scoring algorithm and a UI game interface. All contributions are welcome!
+This Yahtzee-style game was created for my individual project for my BS Computer Science degree. It was built using WPF in .NET Framework 4.8, and has been migrated to .NET 6. This includes a scoring algorithm and a UI game interface. All contributions are welcome!
